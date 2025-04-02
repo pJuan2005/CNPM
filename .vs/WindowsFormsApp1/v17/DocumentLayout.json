@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmdonhangadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmdonhangadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\asus\\downloads\\windowsformsapp1\\windowsformsapp1\\frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmmonanadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmmonanadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmdonhangadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmdonhangadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmbananadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmbananadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmbananadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmbananadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmmonanadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmmonanadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmdonhangadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmdonhangadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmbananadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmbananadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frmbanan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F09C6A-A142-4BDC-8808-F4678D9BA6A2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmbanan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmChiTietDonHang.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmChiTietDonHang.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvywAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:57:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmChiTietDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmChiTietDonHang.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmChiTietDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:40:46.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDonHangAdd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHangAdd.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmDonHangAdd.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHangAdd.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmDonHangAdd.Designer.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAASwLoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:41:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDonHangAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHangAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmDonHangAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHangAdd.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmDonHangAdd.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwI4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:41:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDonHangAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHangAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmDonHangAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHangAdd.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmDonHangAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:36:14.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmBanAnAdd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAnAdd.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBanAnAdd.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAnAdd.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBanAnAdd.Designer.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAlwOEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:52:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\ChiTietDonHang.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:03:46.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDonHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHang.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmDonHang.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHang.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmDonHang.Designer.cs",
+              "ViewState": "AQIAACUBAAAAAAAAAAAawDEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:55:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHang.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHang.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmDonHang.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAjwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:55:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHang.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmDonHang.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:37:04.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmBanAn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAn.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBanAn.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAn.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBanAn.Designer.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAowCQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:30:40.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBanAnAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAnAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBanAnAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAnAdd.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBanAnAdd.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAASwGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:09:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBanAn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBanAn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAn.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBanAn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:06:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\DataBaseHelper.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DataBaseHelper.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAlwC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:18:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMonAnAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAnAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmMonAnAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAnAdd.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmMonAnAdd.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:18:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMonAn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmMonAn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAn.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmMonAn.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwDQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:16:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:16:35.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMonAnAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAnAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmMonAnAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAnAdd.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmMonAnAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:13:43.604Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMonAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmMonAn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmMonAn.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmMonAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:12:35.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmBanAnAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAnAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBanAnAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAnAdd.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBanAnAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:01:47.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBanAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBanAn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frmBanAn.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBanAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:59:26.139Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
